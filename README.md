@@ -2,7 +2,11 @@
 <h3 align="center">A passionate Java Developer,Cloud Enthusiast, ML Enthusiast, Programmer, and Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Open+Source+Lover;Always+learning+something+new+%F0%9F%92%AA;Competitive+Programmer+%7C+Problem+Solver" alt="Typing SVG" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Open+Source+Lover;Always+learning+something+new+%F0%9F%92%AA;Competitive+Programmer+%7C+Problem+Solver" 
+  alt="Typing SVG" 
+/>
+
 </p>
 
 ---
