@@ -66,3 +66,7 @@
 ### 🙏 Support My Work
 
 If you like what I do, feel free to ⭐ my repositories and connect with me!
+
+## 👀 Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{RiddhiDeogade}/count.svg)
