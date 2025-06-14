@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riddhi Deogade</h1>
 <h3 align="center">A passionate Java Developer,Cloud Enthusiast, ML Enthusiast, Programmer, and Open Source Contributor</h3>
+<h3 align="center">🚀 Future SDE | 💻 Java & Web Dev Enthusiast |Java Developer| Cloud Enthusiast | ML Enthusiast| 🧠 DSA Practitioner | 🌟 Building projects with purpose</h3>
 
 <p align="center">
 <img 
@@ -13,13 +14,15 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **Frontend Projects**
-- 🌱 I’m learning **React and Git Workflows**
-- 💬 Ask me about **HTML, CSS, JavaScript, Java DSA**
-- 🤝 I’m looking to collaborate on **real-world open source projects**
+- 📌 Currently focused on DSA, Java development, and building real-world web projects
+- 🚧 Learning React and strengthening my understanding of core CS subjects like OS, DBMS, and OOPS
+- 🧠 Regularly solving problems on LeetCode and participating in coding contests
+- 🤝 Open to collaborating on impactful software projects and clean UI development
+- 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core CS subjects
 - 🚀 I actively participate in **Competitive Programming contests** on platforms like LeetCode and Codeforces
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/riddhi-deogade-02912b278/)**
 - ⚡ Fun fact: I enjoy solving DSA and make UI elements look ✨ aesthetic ✨!
+- ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
 
 ---
 
@@ -36,23 +39,30 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ---
-
-### 📈 GitHub Stats
+### 🧾 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RiddhiDeogade&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiddhiDeogade&layout=compact&theme=radical" height="150"/>
+  <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiddhiDeogade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
 
+---
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiddhiDeogade&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+---
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Riddhideogade&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiDeogade&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
 ### 🌍 Let's Connect
 
