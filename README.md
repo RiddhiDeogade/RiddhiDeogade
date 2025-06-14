@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Riddhi Deogade</h1>
-<h3 align="center">A passionate Java Developer,Cloud Enthusiast, ML Enthusiast, Programmer, and Open Source Contributor</h3>
 <h3 align="center">🚀 Future SDE | 💻 Java & Web Dev Enthusiast |Java Developer| Cloud Enthusiast | ML Enthusiast| 🧠 DSA Practitioner | 🌟 Building projects with purpose</h3>
 
 <p align="center">
