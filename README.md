@@ -54,15 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RiddhiDeogade&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
 ---
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RiddhiDeogade&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
 ### 🌍 Let's Connect
 
 <p align="left">
