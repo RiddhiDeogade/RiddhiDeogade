@@ -37,15 +37,6 @@
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
----
-### 🧾 GitHub Stats
-
-<p align="center">
- 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=RiddhiDeogade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 
 ---
 ### 📊 Most Used Languages
