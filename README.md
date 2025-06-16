@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhi Deogade</h1>
-<h3 align="center">🚀 Future SDE | 💻 Java & Web Dev Enthusiast |Java Developer| Cloud Enthusiast | ML Enthusiast| 🧠 DSA Practitioner | 🌟 Building projects with purpose</h3>
+<h3 align="center">🚀 Future SDE | 💻 Java Developer| Cloud Enthusiast | ML Enthusiast| 🧠 DSA Practitioner | 🌟 Building projects with purpose</h3>
 
 <p align="center">
 <img 
@@ -48,7 +48,7 @@
 ---
 ### 🌍 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/riddhi-deogade-02912b278/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
   <a href="mailto:deogaderiddhi@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
 </p>
