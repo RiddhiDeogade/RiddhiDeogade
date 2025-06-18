@@ -54,10 +54,6 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RiddhiDeogade&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
----
-
 ### 🌍 Let's Connect
 
 <p align="center">
