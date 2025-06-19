@@ -17,7 +17,6 @@
 - 🚧 Learning React and strengthening my understanding of core CS subjects like OS, DBMS, and OOPS
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
 - 🤝 Open to collaborating on impactful software projects and clean UI development
-- 📚 Preparing for SDE roles with a strong foundation in data structures, algorithms, and core CS subjects
 - 🚀 I actively participate in **Competitive Programming contests**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/riddhi-deogade-02912b278/)**
 - ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
