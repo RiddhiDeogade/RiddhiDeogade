@@ -56,8 +56,14 @@
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/riddhi-deogade-02912b278/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a>
-  <a href="mailto:deogaderiddhi@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/riddhi-deogade-02912b278/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:deogaderiddhi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
