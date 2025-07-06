@@ -14,6 +14,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jAYUbVXgESSti/giphy.gif" width="200"/>
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="200"/>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="200"/>
+</p>
 
 ---
 
