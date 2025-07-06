@@ -59,11 +59,11 @@
   <a href="https://www.linkedin.com/in/riddhi-deogade-02912b278/" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+<!--   &nbsp;&nbsp;&nbsp; -->
   <a href="mailto:deogaderiddhi@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
 </p>
 
 ---
