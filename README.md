@@ -1,4 +1,7 @@
 <h1 align="center"> Hey!👋 I'm Riddhi Deogade</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views" />
+</p>
 <h3 align="center">👩‍💻 Future SDE on a mission | ☕ Java at heart | ☁️ Exploring the cloudscape | 🤖 ML learner | 🧩 DSA addict | 🚀 Turning ideas into real-world solutions</h3>
 
 <p align="center">
@@ -75,5 +78,4 @@
 
 If you like what I do, feel free to ⭐ my repositories and connect with me!
 
-## 👀 Profile views
-![Visitor Count](https://profile-counter.glitch.me/{RiddhiDeogade}/count.svg)
+
