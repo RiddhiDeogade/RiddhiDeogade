@@ -25,8 +25,6 @@
 - 🧠 Regularly solving problems on LeetCode and participating in coding contests
 - 🤝 Open to collaborating on impactful software projects and clean UI development
 - 🚀 I actively participate in **Competitive Programming contests**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/riddhi-deogade-02912b278/)**
-- ⚡ Beyond the Code – I'm committed to learning every day — building projects, sharpening my DSA skills, and consistently growing towards my goal of becoming an SDE.
 - ⚡ Fun fact: I enjoy solving DSA and make UI elements look ✨ aesthetic ✨!
 
 ---
@@ -47,6 +45,7 @@
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </p>
 
 
