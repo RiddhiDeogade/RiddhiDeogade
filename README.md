@@ -1,19 +1,18 @@
-<h1 align="center"> 
+
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!👋 I'm Riddhi Deogade" 
   alt="Typing SVG" 
 />
-</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views" />
 </p>
 <h3 align="center">👩‍💻 Future SDE on a mission | ☕ Java at heart | ☁️ Exploring the cloudscape | 🤖 ML learner | 🧩 DSA addict | 🚀 Turning ideas into real-world solutions</h3>
 
 <p align="center">
-<img 
+<!-- <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Java+Developer;Always+learning+something+new+%F0%9F%92%AA;Competitive+Programmer;Problem+Solver" 
   alt="Typing SVG" 
-/>
+/> -->
 
 </p>
 <p align="center">
