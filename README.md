@@ -1,4 +1,9 @@
-<h1 align="center"> Hey!👋 I'm Riddhi Deogade</h1>
+<h1 align="center"> 
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hey!👋 I'm Riddhi Deogade" 
+  alt="Typing SVG" 
+/>
+</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views" />
 </p>
