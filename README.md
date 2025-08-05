@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views"/>
 </p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourGitHubUsername)
 
 
 <p align="center">
