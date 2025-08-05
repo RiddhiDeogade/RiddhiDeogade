@@ -5,10 +5,10 @@
 />
   </p>
 <h3 align="center">👩‍💻 Future SDE on a mission | ☕ Java at heart | ☁️ Exploring the cloudscape | 🤖 ML learner | 🧩 DSA addict | 🚀 Turning ideas into real-world solutions</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views"/>
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RiddhiDeogade)
-</p>
+<div align="center">
+  <!--   <img src="https://komarev.com/ghpvc/?username=RiddhiDeogade&label=Profile%20views&color=6b5b95&style=for-the-badge" alt="Profile views"/> -->
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RiddhiDeogade)
+</div>
 
 
 <p align="center">
